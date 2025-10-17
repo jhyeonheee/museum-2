@@ -1,0 +1,11 @@
+@font-face {
+    font-family: 'GimpoBatang';
+    src: url('GimpoBatang.eot');
+    src: url('GimpoBatang.eot?#iefix') format('embedded-opentype'),
+        url('GimpoBatang.woff2') format('woff2'),
+        url('GimpoBatang.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+

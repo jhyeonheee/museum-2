@@ -1,0 +1,33 @@
+@font-face {
+    font-family: 'ON Jeongsogeonhae B';
+    src: url('TTJeongsogeonhaeB.eot');
+    src: url('TTJeongsogeonhaeB.eot?#iefix') format('embedded-opentype'),
+        url('TTJeongsogeonhaeB.woff2') format('woff2'),
+        url('TTJeongsogeonhaeB.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ON Jeongsogeonhae R';
+    src: url('TTJeongsogeonhaeR.eot');
+    src: url('TTJeongsogeonhaeR.eot?#iefix') format('embedded-opentype'),
+        url('TTJeongsogeonhaeR.woff2') format('woff2'),
+        url('TTJeongsogeonhaeR.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'ON Jeongsogeonhae L';
+    src: url('TTJeongsogeonhaeL.eot');
+    src: url('TTJeongsogeonhaeL.eot?#iefix') format('embedded-opentype'),
+        url('TTJeongsogeonhaeL.woff2') format('woff2'),
+        url('TTJeongsogeonhaeL.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
